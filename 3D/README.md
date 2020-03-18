@@ -1,1 +1,0 @@
-Board_name.step // 3D модель платы

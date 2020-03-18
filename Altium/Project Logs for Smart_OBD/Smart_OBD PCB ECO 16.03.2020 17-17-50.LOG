@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=J5 Old Footprint=PBS10 New Footprint=PBS2 10
+Change Component Footprint: Designator=J6 Old Footprint=PBS10 New Footprint=PBS2 10
+Change component parameters: Designator = "J5" ("J5"); Footprint = "PBS10"; UniqueID = "\RTNHVMNO" ("\RTNHVMNO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pbs2-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DS1026-01-1*10S8BV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "PBS10"; UniqueID = "\NYQUKEVT" ("\NYQUKEVT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pbs2-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DS1026-01-1*10S8BV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"

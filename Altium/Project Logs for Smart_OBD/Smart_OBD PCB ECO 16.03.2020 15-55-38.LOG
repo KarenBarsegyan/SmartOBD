@@ -1,0 +1,216 @@
+Removed Member From Class: ClassName=Smart_OBD Member=Raspberry Conn
+Added Component: Designator=C1(TANTAL_A_CASE)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/373033076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "373033076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2(TANTAL_C_CASE)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/527359843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TECAP22/16VC10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R61E106M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71h104k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71h104k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r72a103ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A103KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71h104k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/652/DOC001652710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/b340a-e3-61t-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B340A-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PBS10 Arduino)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ds1023-30-1x10-for-arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1023-30-1*10SF11-N-084"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PBS10 Arduino)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ds1023-30-1x10-for-arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1023-30-1*10SF11-N-084"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J3(PBS10 Arduino)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ds1023-30-1x10-for-arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1023-30-1*10SF11-N-084"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J4(PBS10 Arduino)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ds1023-30-1x10-for-arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1023-30-1*10SF11-N-084"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-223)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/276/DOC000276680.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lm1117impx-5.0-nopb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM1117IMPX-5.0/NOPB"; VariantName = "[No Variations]"
+Added Component: Designator=U2(LGA 3.5x3x1 mm 24-lead)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/lsm9ds1tr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/427/DOC004427868.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LSM9DS1TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C3-1
+Added Pin To Net: NetName=+3.3V Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=C5-1
+Added Pin To Net: NetName=+3.3V Pin=J1-1
+Added Pin To Net: NetName=+3.3V Pin=J1-9
+Added Pin To Net: NetName=+3.3V Pin=U2-1
+Added Pin To Net: NetName=+3.3V Pin=U2-3
+Added Pin To Net: NetName=+3.3V Pin=U2-22
+Added Pin To Net: NetName=+3.3V Pin=U2-23
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J2-2
+Added Pin To Net: NetName=+5V Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=D1-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-7
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO0 (ID_SD) Pin=J3-4
+Added Net: Name=GPIO0 (ID_SD)
+Added Pin To Net: NetName=GPIO1 (ID_SD) Pin=J4-4
+Added Net: Name=GPIO1 (ID_SD)
+Added Pin To Net: NetName=GPIO2 (SDA) Pin=J1-2
+Added Net: Name=GPIO2 (SDA)
+Added Pin To Net: NetName=GPIO3 (SCL) Pin=J1-3
+Added Net: Name=GPIO3 (SCL)
+Added Pin To Net: NetName=GPIO4 (GPCLK0) Pin=J1-4
+Added Net: Name=GPIO4 (GPCLK0)
+Added Pin To Net: NetName=GPIO5 Pin=J3-5
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=J3-6
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=GPIO7 (CE1_N) Pin=J4-3
+Added Net: Name=GPIO7 (CE1_N)
+Added Pin To Net: NetName=GPIO8 (CE0_N) Pin=J4-2
+Added Net: Name=GPIO8 (CE0_N)
+Added Pin To Net: NetName=GPIO9 (MISO) Pin=J3-1
+Added Pin To Net: NetName=GPIO9 (MISO) Pin=U2-5
+Added Pin To Net: NetName=GPIO9 (MISO) Pin=U2-6
+Added Net: Name=GPIO9 (MISO)
+Added Pin To Net: NetName=GPIO10 (MOSI) Pin=J1-10
+Added Pin To Net: NetName=GPIO10 (MOSI) Pin=U2-4
+Added Net: Name=GPIO10 (MOSI)
+Added Pin To Net: NetName=GPIO11 (SCLK) Pin=J3-2
+Added Pin To Net: NetName=GPIO11 (SCLK) Pin=U2-2
+Added Net: Name=GPIO11 (SCLK)
+Added Pin To Net: NetName=GPIO12 (PWM0) Pin=J4-6
+Added Net: Name=GPIO12 (PWM0)
+Added Pin To Net: NetName=GPIO13 Pin=J3-7
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO14 (TXD) Pin=J2-4
+Added Net: Name=GPIO14 (TXD)
+Added Pin To Net: NetName=GPIO15 (RXD) Pin=J2-5
+Added Net: Name=GPIO15 (RXD)
+Added Pin To Net: NetName=GPIO16 Pin=J4-8
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=GPIO17 Pin=J1-6
+Added Pin To Net: NetName=GPIO17 Pin=U2-8
+Added Net: Name=GPIO17
+Added Pin To Net: NetName=GPIO18 (PCM_CLK) Pin=J2-6
+Added Net: Name=GPIO18 (PCM_CLK)
+Added Pin To Net: NetName=GPIO19 Pin=J3-8
+Added Net: Name=GPIO19
+Added Pin To Net: NetName=GPIO20 (PCM_DIN) Pin=J4-9
+Added Net: Name=GPIO20 (PCM_DIN)
+Added Pin To Net: NetName=GPIO21 (PCM_DOUT) Pin=J4-10
+Added Net: Name=GPIO21 (PCM_DOUT)
+Added Pin To Net: NetName=GPIO22 Pin=J1-8
+Added Net: Name=GPIO22
+Added Pin To Net: NetName=GPIO23 Pin=J2-8
+Added Net: Name=GPIO23
+Added Pin To Net: NetName=GPIO24 Pin=J2-9
+Added Net: Name=GPIO24
+Added Pin To Net: NetName=GPIO26 Pin=J3-9
+Added Net: Name=GPIO26
+Added Pin To Net: NetName=GPIO27 Pin=J1-7
+Added Pin To Net: NetName=GPIO27 Pin=U2-7
+Added Net: Name=GPIO27
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-21
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U2-24
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=Smart_OBD Member=Component C1 10uF
+Added Member To Class: ClassName=Smart_OBD Member=Component C2 22uF
+Added Member To Class: ClassName=Smart_OBD Member=Component C3 10uF
+Added Member To Class: ClassName=Smart_OBD Member=Component C4 0.1uF
+Added Member To Class: ClassName=Smart_OBD Member=Component C5 0.1uF
+Added Member To Class: ClassName=Smart_OBD Member=Component C6 10nF
+Added Member To Class: ClassName=Smart_OBD Member=Component C7 0.1uF
+Added Member To Class: ClassName=Smart_OBD Member=Component D1 Diode
+Added Member To Class: ClassName=Smart_OBD Member=Component J1 Conn1x10
+Added Member To Class: ClassName=Smart_OBD Member=Component J2 Conn1x10
+Added Member To Class: ClassName=Smart_OBD Member=Component J3 Conn1x10
+Added Member To Class: ClassName=Smart_OBD Member=Component J4 Conn1x10
+Added Member To Class: ClassName=Smart_OBD Member=Component U1 LDO 5V
+Added Member To Class: ClassName=Smart_OBD Member=Component U2 MEMs

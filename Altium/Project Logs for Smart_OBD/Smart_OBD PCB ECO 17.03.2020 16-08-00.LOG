@@ -1,0 +1,36 @@
+Added Pin To Net: NetName=+5V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-10
+Added Pin To Net: NetName=AD0/DIO0/CMSN Pin=J6-10
+Added Net: Name=AD0/DIO0/CMSN
+Added Pin To Net: NetName=AD1/DIO1 Pin=J6-9
+Added Net: Name=AD1/DIO1
+Added Pin To Net: NetName=AD2/DIO2 Pin=J6-8
+Added Net: Name=AD2/DIO2
+Added Pin To Net: NetName=AD3/DIO3 Pin=J6-7
+Added Net: Name=AD3/DIO3
+Added Pin To Net: NetName=ASC/DIO5 Pin=J6-5
+Added Net: Name=ASC/DIO5
+Added Pin To Net: NetName=CTS/DIO7 Pin=J6-2
+Added Net: Name=CTS/DIO7
+Added Pin To Net: NetName=DIN/CONFIG Pin=J5-3
+Added Net: Name=DIN/CONFIG
+Added Pin To Net: NetName=DIO12/SPI_MISO Pin=J5-4
+Added Net: Name=DIO12/SPI_MISO
+Added Pin To Net: NetName=DIO14 Pin=J6-1
+Added Net: Name=DIO14
+Added Pin To Net: NetName=DOUT Pin=J5-2
+Added Net: Name=DOUT
+Added Pin To Net: NetName=DTR/SLEEP_RQ/DIO8 Pin=J5-9
+Added Net: Name=DTR/SLEEP_RQ/DIO8
+Added Pin To Net: NetName=ON/SLEEP Pin=J6-3
+Added Net: Name=ON/SLEEP
+Added Pin To Net: NetName=PWM1/DIO11 Pin=J5-7
+Added Net: Name=PWM1/DIO11
+Added Pin To Net: NetName=RESET Pin=J5-5
+Added Net: Name=RESET
+Added Pin To Net: NetName=RSSI PWM/PWMODIO10 Pin=J5-6
+Added Net: Name=RSSI PWM/PWMODIO10
+Added Pin To Net: NetName=RTS/DIO6 Pin=J6-6
+Added Net: Name=RTS/DIO6
+Added Pin To Net: NetName=Vref Pin=J6-4
+Added Net: Name=Vref

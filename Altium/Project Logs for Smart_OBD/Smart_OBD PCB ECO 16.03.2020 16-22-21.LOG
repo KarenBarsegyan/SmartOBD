@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=C1 Old Footprint=TANTAL_A_CASE New Footprint=TANTAL_A_CASE
+Change Physical Footprint: Designator=C2 Old Footprint=TANTAL_C_CASE New Footprint=TANTAL_C_CASE
+Change Physical Footprint: Designator=C3 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C4 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C5 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C6 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C7 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=D1 Old Footprint=SMA New Footprint=SMA
+Change Physical Footprint: Designator=U2 Old Footprint=LGA 3.5x3x1 mm 24-lead New Footprint=LGA 3.5x3x1 mm 24-lead
