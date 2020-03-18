@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=+5V Pin=C2-2
+Removed Pin From Net: NetName=+5V Pin=C9-2
+Removed Pin From Net: NetName=+5V Pin=C10-2
+Removed Pin From Net: NetName=+5V Pin=D2-2
+Removed Pin From Net: NetName=+V_Bat Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R2-2
+Removed Pin From Net: NetName=+5V Pin=U1-2
+Removed Pin From Net: NetName=+5V Pin=U1-2
+Change Component Footprint: Designator=D2 Old Footprint=sod-123 New Footprint=SMA
+Change Component Comment : Designator=R1 Old Comment=510R New Comment=51k
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603 Resistor"; UniqueID = "\CXQVCJMH" ("\CXQVCJMH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079753"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0603FR-0751KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "sod-123"; UniqueID = "\IPLSBCPF" ("\IPLSBCPF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/652/DOC001652710.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/b340a-e3-61t-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "B340A-E3/61T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/652/DOC001652710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/b340a-e3-61t-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B340A-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/652/DOC001652710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/b340a-e3-61t-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B340A-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/009/DOC001009115.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/fdv303n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FDV303N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=D3-2
+Added Pin To Net: NetName=+5V Pin=D4-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=+V_Bat Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=D3-1
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC2_2 Pin=R5-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=D2-2
+Added Pin To Net: NetName=NetC9_2 Pin=D4-1
+Added Pin To Net: NetName=NetC9_2 Pin=R2-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R4-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=U4-4
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Smart_OBD Member=Component D3 Diode
+Added Member To Class: ClassName=Smart_OBD Member=Component D4 Diode
+Added Member To Class: ClassName=Smart_OBD Member=Component Q1 MOSFET-N
+Added Member To Class: ClassName=Smart_OBD Member=Component R4 1k
+Added Member To Class: ClassName=Smart_OBD Member=Component R5 10k

@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILURQDOQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Smart_OBD\Design Rule Check - Smart_OBD.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\?ircuitry\Altium Designer\AltiumLibraries\Karen_Components\*.*
 IncludeSubFolders=1
