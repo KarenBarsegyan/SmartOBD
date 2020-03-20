@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Smart_OBD.PrjPcb]
+   Generated File[Smart_OBD-RoundHoles-Plated.TXT]
+   Generated File[Smart_OBD-SlotHoles-Plated.TXT]
+   Generated File[Smart_OBD.LDP]
+   Generated File[Smart_OBD.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:58:12 On 20.03.2020

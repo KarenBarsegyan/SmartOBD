@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\GitHub\Future\SmartOBD\Altium\Smart_OBD.PcbDoc
 Date     : 20.03.2020
-Time     : 16:50:13
+Time     : 23:31:33
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03

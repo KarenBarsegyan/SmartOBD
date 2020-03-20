@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIN/CONFIG Pin=Use_Uart_TX-1
+Removed Pin From Net: NetName=GPIO14 (TXD) Pin=Use_Uart_TX-2
+Added Pin To Net: NetName=GPIO14 (TXD) Pin=Use_Uart_TX-1
+Added Pin To Net: NetName=DIN/CONFIG Pin=Use_Uart_TX-2
