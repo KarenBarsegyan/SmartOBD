@@ -1,0 +1,27 @@
+Change Physical Footprint: Designator=C1 Old Footprint=TANTAL_A_CASE New Footprint=TANTAL_A_CASE
+Change Physical Footprint: Designator=C2 Old Footprint=TANTAL_C_CASE New Footprint=TANTAL_C_CASE
+Change Physical Footprint: Designator=C3 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C4 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C5 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C6 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C7 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C8 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=C9 Old Footprint=TANTAL_C_CASE New Footprint=TANTAL_C_CASE
+Change Physical Footprint: Designator=C10 Old Footprint=0603 Capicator New Footprint=0603 Capicator
+Change Physical Footprint: Designator=D1 Old Footprint=SMA New Footprint=SMA
+Change Physical Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMA
+Change Physical Footprint: Designator=D3 Old Footprint=SMA New Footprint=SMA
+Change Physical Footprint: Designator=D4 Old Footprint=SMA New Footprint=SMA
+Change Physical Footprint: Designator=L1 Old Footprint=Inductor 5.4x5.1 New Footprint=Inductor 5.4x5.1
+Change Physical Footprint: Designator=Li-Po Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=OBD Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=Q1 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Physical Footprint: Designator=R1 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R2 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R3 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R4 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=R5 Old Footprint=0603 Resistor New Footprint=0603 Resistor
+Change Physical Footprint: Designator=U1 Old Footprint=SOT-223 New Footprint=SOT-223
+Change Physical Footprint: Designator=U2 Old Footprint=LGA 3.5x3x1 mm 24-lead New Footprint=LGA 3.5x3x1 mm 24-lead
+Change Physical Footprint: Designator=U3 Old Footprint=PW829 New Footprint=PW829
+Change Physical Footprint: Designator=U4 Old Footprint=SOT-23-5 New Footprint=SOT-23-5

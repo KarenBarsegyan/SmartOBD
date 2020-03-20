@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\GitHub\Future\SmartOBD\Altium\Smart_OBD.PcbDoc
-Date     : 18.03.2020
-Time     : 13:01:28
+Date     : 20.03.2020
+Time     : 16:50:13
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
 Rule Violations :0
@@ -30,10 +30,10 @@ Rule Violations :0
 Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Processing Rule : Hole Size Constraint (Min=0.4mm) (Max=5.9mm) (IsPad)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:04

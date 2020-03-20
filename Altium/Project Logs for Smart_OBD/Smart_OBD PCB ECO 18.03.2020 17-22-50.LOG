@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GPIO5 Pin=J3-5
+Added Component: Designator=R10(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO5 Pin=R10-2
+Change Net Name : Old Net Name=GPIO5 New Net Name=NetC9_2
+Added Pin To Net: NetName=GPIO5 Pin=J3-5
+Added Pin To Net: NetName=GPIO5 Pin=R10-1
+Added Net: Name=GPIO5
+Added Member To Class: ClassName=Smart_OBD Member=Component R10 1k

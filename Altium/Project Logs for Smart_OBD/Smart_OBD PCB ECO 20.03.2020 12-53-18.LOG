@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=+3.3V Pin=J1-1
+Removed Pin From Net: NetName=GPIO2 (SDA) Pin=J1-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=+12V Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=+5V Pin=D3-2
+Added Pin To Net: NetName=GPIO13 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+3.3V Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=J1-3
+Added Pin To Net: NetName=GPIO2 (SDA) Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GPIO3 (SCL) Pin=J1-6
+Added Pin To Net: NetName=DIN/CONFIG Pin=J1-7
+Added Pin To Net: NetName=GPIO4 (GPCLK0) Pin=J1-8
+Added Pin To Net: NetName=DOUT Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GPIO18 (PCM_CLK) Pin=J1-11
+Added Pin To Net: NetName=GPIO17 Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GPIO27 Pin=J1-14
+Added Pin To Net: NetName=GPIO23 Pin=J1-15
+Added Pin To Net: NetName=GPIO22 Pin=J1-16
+Added Pin To Net: NetName=GPIO24 Pin=J1-17
+Added Pin To Net: NetName=+3.3V Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GPIO10 (MOSI) Pin=J1-20
+Added Pin To Net: NetName=GPIO25 Pin=J1-21
+Added Pin To Net: NetName=GPIO9 (MISO) Pin=J1-22
+Added Pin To Net: NetName=GPIO8 (CE0_N) Pin=J1-23
+Added Pin To Net: NetName=GPIO11 (SCLK) Pin=J1-24
+Added Pin To Net: NetName=GPIO7 (CE1_N) Pin=J1-25
+Added Pin To Net: NetName=GND Pin=J1-26
+Added Pin To Net: NetName=GPIO1 (ID_SD) Pin=J1-27
+Added Pin To Net: NetName=GPIO0 (ID_SD) Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GPIO5 Pin=J1-30
+Added Pin To Net: NetName=GPIO12 (PWM0) Pin=J1-31
+Added Pin To Net: NetName=GPIO6 Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-33
+Added Pin To Net: NetName=GPIO13 Pin=J1-34
+Added Pin To Net: NetName=GPIO16 Pin=J1-35
+Added Pin To Net: NetName=GPIO19 Pin=J1-36
+Added Pin To Net: NetName=GPIO20 (PCM_DIN) Pin=J1-37
+Added Pin To Net: NetName=GPIO26 Pin=J1-38
+Added Pin To Net: NetName=GPIO21 (PCM_DOUT) Pin=J1-39
+Added Pin To Net: NetName=GND Pin=J1-40
+Added Pin To Net: NetName=NetD7_2 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetD3_1 Pin=U1-4
+Added Member To Class: ClassName=Smart_OBD Member=Component C1 10uF
+Added Member To Class: ClassName=Smart_OBD Member=Component D1 Diode
+Added Member To Class: ClassName=Smart_OBD Member=Component D3 Diode
+Added Member To Class: ClassName=Smart_OBD Member=Component D7 LedY
+Added Member To Class: ClassName=Smart_OBD Member=Component R12 510R
+Added Member To Class: ClassName=Smart_OBD Member=Component U1 DC/DC

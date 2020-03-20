@@ -1,0 +1,77 @@
+Added Component: Designator=B1(Button 6x6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/tyco-1571563-9-fsm8jsmatr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1571563-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Button"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71h104k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71H104KA93D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=D5(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-pg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-PG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D6(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO22 Pin=B1-3
+Added Pin To Net: NetName=GPIO22 Pin=B1-4
+Added Pin To Net: NetName=GPIO22 Pin=C11-2
+Added Pin To Net: NetName=NetC2_2 Pin=D5-1
+Added Pin To Net: NetName=NetC9_2 Pin=D6-1
+Added Pin To Net: NetName=+5V Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GPIO22 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=C11-1
+Added Pin To Net: NetName=NetB1_1 Pin=R6-2
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R7-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R9-1
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=Smart_OBD Member=Component B1 But
+Added Member To Class: ClassName=Smart_OBD Member=Component C11 0.1uF
+Added Member To Class: ClassName=Smart_OBD Member=Component D5 LedG
+Added Member To Class: ClassName=Smart_OBD Member=Component D6 LedR
+Added Member To Class: ClassName=Smart_OBD Member=Component R6 1k
+Added Member To Class: ClassName=Smart_OBD Member=Component R7 510R
+Added Member To Class: ClassName=Smart_OBD Member=Component R8 10k
+Added Member To Class: ClassName=Smart_OBD Member=Component R9 510R

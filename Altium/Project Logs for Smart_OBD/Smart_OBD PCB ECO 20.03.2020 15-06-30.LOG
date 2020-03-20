@@ -1,0 +1,52 @@
+Added Component: Designator=D8(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-pg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-PG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/652/DOC001652710.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/b340a-e3-61t-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B340A-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=J2(USB Type-C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/usb4085-gf-a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.farnell.com/cad/2648880.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "USB4085-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=D9-2
+Added Pin To Net: NetName=GND Pin=J2-A1
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-B1
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=D9-1
+Added Pin To Net: NetName=NetD8_1 Pin=J2-A4
+Added Pin To Net: NetName=NetD8_1 Pin=J2-A9
+Added Pin To Net: NetName=NetD8_1 Pin=J2-B4
+Added Pin To Net: NetName=NetD8_1 Pin=J2-B9
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R13-1
+Added Net: Name=NetD8_2
+Added Member To Class: ClassName=Smart_OBD Member=Component D8 LedG
+Added Member To Class: ClassName=Smart_OBD Member=Component D9 Diode
+Added Member To Class: ClassName=Smart_OBD Member=Component J2 USB
+Added Member To Class: ClassName=Smart_OBD Member=Component R13 510R
